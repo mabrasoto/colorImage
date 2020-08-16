@@ -1,5 +1,5 @@
 # Taller 1
-# Procesamiento de imagenes y visión
+# Procesamiento de imágenes y visión
 # Manuela Bravo Soto
 
 # IMPORTACIONES
